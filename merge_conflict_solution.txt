@@ -1,0 +1,2 @@
+Merge conflict- conflict occurs when we added different data in same file usind different branches and trying to merge those branches (main and osoc_branch).
+solution- when git shows about the occurence of merge conflict, open the conflicted file (git_commands.txt) and edit it with final data to be written. Now add and commit that file to final merge.
