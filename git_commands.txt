@@ -8,4 +8,4 @@
 8) git remote- A convenient tool for administering remote connections. Instead of passing the full URL to the fetch, pull, and push commands, it lets you use a more meaningful shortcut.
 9) git reset- Undoes changes to files in the working directory. Resetting lets you clean up or completely remove changes that have not been pushed to a public repository.
 10) git revert- Undoes a committed snapshot. When you discover a faulty commit, reverting is a safe and easy way to completely remove it from the code base.
-THIS LINE IS DIFFERENT LINE FOR CREATING MERGE CONFLICT
+THE MERGE CONFLICT IS SOLVED!!!!
