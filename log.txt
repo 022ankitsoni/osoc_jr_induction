@@ -1,0 +1,43 @@
+commit 78afa3a08590231b8161b46526e294321636190c
+Author: 022ankitsoni <ankitsoni0605@gmail.com>
+Date:   Wed Jan 5 15:03:30 2022 +0530
+
+    merge conflict information and solution about solving it is added to merge_conflict_solution.txt
+
+commit 8311af0f9913bfe5a01e6809f7b1c0242c2d7535
+Merge: 71b7796 261b0b3
+Author: 022ankitsoni <ankitsoni0605@gmail.com>
+Date:   Wed Jan 5 14:53:55 2022 +0530
+
+    The merge conflict is solved
+
+commit 71b77962c873315297ffc3999b04916dbee209d2
+Author: 022ankitsoni <ankitsoni0605@gmail.com>
+Date:   Wed Jan 5 14:49:59 2022 +0530
+
+    Different data is added to git_commands.txt in main branch
+
+commit 261b0b3079c440de253b36a225553708c58e0379
+Author: 022ankitsoni <ankitsoni0605@gmail.com>
+Date:   Wed Jan 5 14:43:20 2022 +0530
+
+    Additional data is added to git_commands.txt to create merge conflict
+
+commit 6227e48f6f0ee5897fa9e7d657ba5e3d90b7b251
+Merge: 84d38b4 abd555f
+Author: 022ankitsoni <ankitsoni0605@gmail.com>
+Date:   Wed Jan 5 14:40:07 2022 +0530
+
+    Merge branch 'osoc_branch'
+
+commit abd555fab7263e6828c15b382345a058d589dafa
+Author: 022ankitsoni <ankitsoni0605@gmail.com>
+Date:   Wed Jan 5 14:39:35 2022 +0530
+
+    git commands added to git_commands.txt
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
